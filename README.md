@@ -1,2 +1,2 @@
-# day2
-Day 2 of using Customtkinter
+# Day 2
+A simple calculator
